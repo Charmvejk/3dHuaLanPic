@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml:19:1-27:12
+INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml:19:1-27:12
+INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml:19:1-27:12
+INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml:19:1-27:12
+INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml:19:1-27:12
+INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml:19:1-27:12
+INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml:19:1-27:12
+	package
+		ADDED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml:20:7-48
+		INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml
+		INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml:22:7-32
+		INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml
+		INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml:19:11-69
+	android:versionCode
+		ADDED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml:21:7-30
+		INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml
+		INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml
+application
+ADDED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml:24:5-26:19
+	android:label
+		ADDED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml:24:18-50
+uses-sdk
+INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml
+INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml
+INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml
+INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml
+		ADDED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml
+		INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml
+		ADDED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml
+		INJECTED from E:\hayiworkspaces\3dHuaLanPic\library\src\main\AndroidManifest.xml
